@@ -1,0 +1,9 @@
+In this practical we will be creating a telegram bot using python and the telegram package
+
+Steps:
+1.Go to BotFather in telegram app/web and create a bot.
+2.Give username to your bot.
+3.Then form it you will get a uniqe token id.
+4.Then write a code in your python.
+5.If do not have telepot lib then install.
+5.Then you will get an output in python idle as you get the output then give your code in PRAC_1:
